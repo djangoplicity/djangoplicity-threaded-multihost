@@ -1,5 +1,5 @@
-Installing Django-Threaded-Multihost
-====================================
+Installing Djangoplicity-Threaded-Multihost
+===========================================
 
 With threaded_multihost on your PYTHONPATH, just add the Threadlocal middleware to your MIDDLEWARE_CLASSES entry in your "settings.py" file.
 

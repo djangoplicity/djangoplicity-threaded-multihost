@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 version = __import__('threaded_multihost').__version__
 ez_setup.use_setuptools()
 setup(
-    name='django-threaded-multihost',
+    name='djangoplicity-threaded-multihost',
     version=version,
     description="Djangoplicity Threaded Multihost",
     long_description=open('README.rst').read(),
