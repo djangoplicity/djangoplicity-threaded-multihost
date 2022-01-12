@@ -47,7 +47,7 @@ To make a contribution:
    - Make your changes to the fork
    - Issue a pull request when it is ready for inclusion into tip.
 
-.. _`django-threaded-multihost on bitbucket`: https://bitbucket.org/bkroeze/django-threaded-multihost
+.. _`django-threaded-multihost on github`: https://github.com/djangoplicity/djangoplicity-threaded-multihost
 
 
 Threaded Multihost Authors and Contributors
