@@ -1,9 +1,9 @@
 Djangoplicity-Threaded-Multihost
-=========================
+================================
 djangoplicity-threaded multihost provides support utilities to enable easy multi-site awareness in Django apps.
 
 Installing Djangoplicity-Threaded-Multihost
-------------------------------------
+-------------------------------------------
 
 With threaded_multihost on your PYTHONPATH, just add the Threadlocal middleware to your MIDDLEWARE_CLASSES entry in your "settings.py" file.
 
@@ -29,7 +29,7 @@ Testing
 Test suite can be done by running ./manage.py test in the "tests" directory.
 
 Contributing to djangoplicity-threaded-multihost
------------------------------------------
+------------------------------------------------
 
 We are pleased to accept contributions and bugfixes for django-threaded-multihost.
 
