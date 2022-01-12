@@ -6,7 +6,7 @@ Home-page: https://github.com/djangoplicity/djangoplicity-threaded-multihost
 Author: Bruce Kroeze
 Author-email: brucek@solidsitesolutions.com
 License: New BSD License
-Description: django-threaded multihost provides support utilities to
+Description: djangoplicity-threaded multihost provides support utilities to
             enable easy multi-site awareness in Django apps.
 Platform: any
 Classifier: Development Status :: 4 - Beta
